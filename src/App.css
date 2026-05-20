@@ -1,4 +1,14 @@
 *{
   margin: 0%;
   padding: 0%;
+  font-family: "DynaPuff",sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+nav{
+    background-color: blue;
+    color: white;
+    padding: 20px;
 }
