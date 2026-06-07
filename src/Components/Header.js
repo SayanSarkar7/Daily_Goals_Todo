@@ -3,7 +3,7 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <nav>Header</nav>
+    <nav>Get Ready To Complete Your Daily Goals</nav>
   )
 }
 
